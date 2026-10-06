@@ -53,7 +53,7 @@
                         <div class="contact-item mb-4">
                             <i class="bi bi-geo-alt-fill contact-icon"></i>
                             <div>
-                                <p class="contact-label mb-1">Alamat Kampus</p>
+                                <p class="contact-label mb-1">Alamat</p>
                                 <p class="contact-value mb-0">Jl. Raya Tajur Kp. Buntar RT02/RW08 Kel. Muarasari Kec. Bogor Selatan Kota Bogor - Jawa Barat 16137</p>
                             </div>
                         </div>
